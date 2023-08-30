@@ -1,0 +1,7 @@
+Shell Script
+A shell script is a computer program designed to be run by the Unix/Linux shell which could be one of the following:
+The Bourne Shell
+The C Shell
+The Korn Shell
+The GNU Bourne-Again Shell
+Shell scripts have several required constructs that tell the shell environment what to do and when to do it. Of course, most scripts are more complex than the above one
